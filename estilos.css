@@ -1,0 +1,25 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: black;font-family: Arial, Helvetica, sans-serif;font-size: 36px;
+  }
+  h3 {
+    color: black;font-family: Arial, Helvetica, sans-serif;font-size: 12px;
+  }
+  p {
+    color: black;font-family: Arial, Helvetica, sans-serif;font-size: 12px;
+  }
+  div {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  } 
+  h2 {
+    color: lightblue;font-family: Arial, Helvetica, sans-serif;font-size: 12px;
+  }
+  .detalle {
+    font-family: Arial, Helvetica, sans-serif;font-size: 10px;
+  }
